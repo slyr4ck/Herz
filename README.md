@@ -16,6 +16,11 @@ This tool was written with Visual Studio 2022. If you don't have Visual Studio y
 - Windows 11 - ( Working )
 - Linux - ( Not Working )
 
+## VirusTotal Results
+
+![herz-vt](https://github.com/user-attachments/assets/2f07c69e-e63b-4abe-a785-7205c79b3a61)
+
+
 ## Legal Disclaimer
 
 **This tool provided is for educational and informational purposes only**
