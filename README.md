@@ -13,7 +13,7 @@ This tool was written with Visual Studio 2022. If you don't have Visual Studio y
 ## Platform
 
 - Windows 10 - ( Working )
-- Windows 11 - ( Untested )
+- Windows 11 - ( Working )
 - Linux - ( Not Working )
 
 ## Legal Disclaimer
