@@ -4,7 +4,7 @@ Herz is a tool for dumping Google Chrome passwords. It can only dump passwords n
 
 ## Building
 
-This tool was written with Visual Studio 2022. If you don't have Visual Studio you should download it before compiling. Just open the solution file with Visual Studio and then select the ==Release== mode and hit ==CTRL + Shift + B=== or select the ==Build== tab hit the ==Build Solution== button for compiling.
+This tool was written with Visual Studio 2022. If you don't have Visual Studio you should download it before compiling. Just open the solution file with Visual Studio and then select the *Release* mode and hit *CTRL + Shift + B* or select the *Build* tab hit the *Build Solution* button for compiling.
 
 ## Proof Of Concept
 
